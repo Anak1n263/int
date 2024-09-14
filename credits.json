@@ -1,0 +1,817 @@
+[
+  {
+    "title": "Terra X - Tabu - Bedrohte Orte",
+    "production": "NFP Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2024,
+    "length": "52 Min"
+  },
+  {
+    "title": "Papst Pius XII. und der Holocaust",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2024,
+    "length": "52 Min"
+  },
+  {
+    "title": "Terra X, Welten-Saga II",
+    "production": "Interscience Film",
+    "sender": "ZDF / Arte",
+    "year": 2024,
+    "length": "6x 43 Min",
+    "episode": "Folge 1: Die Schätze Südeuropas",
+    "episodeTwo": "Folge 2: Die Schätze Japans",
+    "episodeThree": "Folge 3: Die Schätze Nordafrikas",
+    "episodeFour": "Folge 4: Die Schätze Südamerikas",
+    "episodeFive": "Folge 5: Die Schätze des nahen Ostens",
+    "episodeSix": "Folge 6: Die Schätze Griechenlands und Türkei"
+  },
+  {
+    "title": "Terra X, Was die Welt am Laufen hält",
+    "production": "Ifage-filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2024,
+    "length": "43 Min",
+    "episode": "Folge 1: Energie ",
+    "episodeTwo": "Folge 2: Kommunikation",
+    "episodeThree": "Folge 3: Mobilität"
+  },
+  {
+    "title": "Terra X, Faszination Wasser – Zauber der Korallenriffe",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2023,
+    "length": "43 Min"
+  },
+  {
+    "title": "Terra X, Faszination Wasser – Unbekanntes Grönland",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2023,
+    "length": "43 Min"
+  },
+  {
+    "title": "Terra X, Tabu - Geheimnisvolle Orte",
+    "production": "NFP Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2023,
+    "length": "52 Min"
+  },
+  {
+    "title": "Terra X - Europa in",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2023,
+    "length": "3x 43 Min.",
+    "episode": "Folge 1: Europa in der letzten Eiszeit ",
+    "episodeTwo": "Folge 2: Europa in der Zeit der Völkerwanderung",
+    "episodeThree": "Folge 3: Europa in der Zeit des Absolutismus"
+  },
+  {
+    "title": "Die Stadt der Pyramiden Caral – Wiege der Andenkultur",
+    "production": "Docstation GmbH",
+    "sender": "ZDF",
+    "year": 2022,
+    "length": "50 Min"
+  },
+  {
+    "title": "Terra X - Unsere Kontinente",
+    "production": "Storyhouse Media",
+    "sender": "ZDF / Arte",
+    "year": 2022,
+    "length": "6x 52 Min",
+    "episode": "Folge 1: Afrika - mit Harald Lesch",
+    "episodeTwo": "Folge 2: Asien - mit Colin Devey",
+    "episodeThree": "Folge 3: Australien und Ozeanien - mit Antje Boetius",
+    "episodeFour": "Folge 4: Europa - mit Mirko Drotschmann",
+    "episodeFive": "Folge 5: Nordamerika - mit Mai Thi Nguyen-Kim",
+    "episodeSix": "Folge 6: Südamerika - Mit Jasmina Neudecker"
+  },
+  {
+    "title": "Terra X - Deutschland in",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2021,
+    "length": "43 Min.",
+    "episode": "Folge 1: Deutschland in der Frühen Bronzezeit",
+    "episodeTwo": "Folge 2: Deutschland in der Industriellen Revolution",
+    "episodeThree": "Folge 3: Deutschland in den Goldenen Zwanzigern"
+  },
+  {
+    "title": "San Marino – Kleines Land ganz groß",
+    "production": "Docstation Medienproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Wem gehört die Welt? – von der Macht des Marktes",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Wem gehört die Welt? – von Fürsten und Kaufleuten",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Wem gehört die Welt? – vom Acker zum Imperium",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Deutschland in der Goldene Zwanzige",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Deutschland in der Industrielle Revolution",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Deutschland in der Frühe Bronzezeit",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Schalom und Hallo",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ARD",
+    "year": 2021,
+    "length": "90 Min."
+  },
+  {
+    "title": "Faszination Wasser - Stürmische Nordsee",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / ARTE",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Faszination Wasser - Geheimnisvolle Ostsee",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF / ARTE",
+    "year": 2021,
+    "length": "43 Min."
+  },
+  {
+    "title": "Kriegsverbrecher vor Gericht - Die Rastatter Prozesse",
+    "production": "Prod. Moving Story Productions GmbH",
+    "sender": "ARD",
+    "year": 2021,
+    "length": "90 Min."
+  },
+  {
+    "title": "Was wäre wenn Hitler den Krieg gewonnen hätte?",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "Phönix",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Kaffee, Geheimnis eines Wundertranks",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "60 Min."
+  },
+  {
+    "title": "Märchen für die Welt – Hans Christian Andersen",
+    "production": "Docstation Medienproduktion GmbH",
+    "sender": "ARTE",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Die Welten Saga – Die Schätze Afrikas",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Die Welten Saga – Die Schätze Europas",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Die Welten Saga – Die Schätze Südostasiens",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Die Welten Saga – Die Schätze Indiens",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Die Welten Saga – Die Schätze des Orients",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Die Welten Saga – Die Schätze Lateinamerikas",
+    "production": "Interscience Film GmbH",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Eine kurze Geschichte über das Mittelalter",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Eine kurze Geschichte über die Hexenverfolgung",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Eine kurze Geschichte über das alte Ägypten",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Orientexpress – Ein Zug schreibt Geschichte",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "ZDF",
+    "year": 2020,
+    "length": "43 Min."
+  },
+  {
+    "title": "Mythos Burg",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "ZDF / ARTE",
+    "year": 2019,
+    "length": "2 x 43 / 52 Min."
+  },
+  {
+    "title": "Unsterbliches Pompeji",
+    "production": "Docstation GmbH",
+    "sender": "ZDF / ARTE",
+    "year": 2019,
+    "length": "43 Min."
+  },
+  {
+    "title": "Was wäre wenn Hitler den gewonnen hätte",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "Phönix",
+    "year": 2019,
+    "length": "43 Min."
+  },
+  {
+    "title": "Handelskrieg - Im Spiel der Geschichte",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "ZDF / ARTE",
+    "year": 2019,
+    "length": "52 Min."
+  },
+  {
+    "title": "Polen 39 - wie Deutsche Soldaten zu Mördern geworden sind",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "Phönix",
+    "year": 2019,
+    "length": "43 Min."
+  },
+  {
+    "title": "Erdoǧans AKP - Eine Partei verändert die Türkei / L'AKP d'Erdoǧan - une ambition, une parti",
+    "production": "Tagtraum Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2019,
+    "length": "43 Min."
+  },
+  {
+    "title": "Die freundlichen Islamisten - Auf den Spuren der Gülen-Bewegung",
+    "production": "Tagtraum Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2019,
+    "length": "43 Min."
+  },
+  {
+    "title": "Ein Armlänge Welt",
+    "production": "Kreatifilm GmbH",
+    "sender": "3SAT",
+    "year": 2019,
+    "length": "50 Min."
+  },
+  {
+    "title": "Was wäre wenn ... die Perser bei Marathon gesiegt hätten?",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "Phönix",
+    "year": 2018,
+    "length": "43 Min."
+  },
+  {
+    "title": "Was wäre wenn Kolumbus Amerika nicht entdeckt hätte?",
+    "production": "Gruppe5 Filmproduktion",
+    "sender": "Phönix",
+    "year": 2018,
+    "length": "43 Min."
+  },
+  {
+    "title": "Der Saarbaron",
+    "production": "Moving Story Productions",
+    "sender": "ARTE / ARD",
+    "year": 2018,
+    "length": "90 / 45 Min."
+  },
+  {
+    "title": "Mensch und Mond",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ARTE",
+    "year": 2018,
+    "length": "3 x 52 Min."
+  },
+  {
+    "title": "Meilenstein der Menschheit",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "-",
+    "year": 2018,
+    "length": "4 x 45 Min."
+  },
+  {
+    "title": "Migration - Reise der Menschheit",
+    "production": "Gruppe5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "episode": "Folge 1. We Are Family",
+    "episodeTwo": "Folge 2. Die Welt wird Rund",
+    "episodeThree": "Folge 3. Leben ist Bewegung",
+    "extra": "Gewinner Deutscher Film- und Fernsehpreis 2019 für mehrteilige Dokumentation",
+    "year": 2018,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Zehn Dinge, die man über das Christentum wissen muss",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF / ZDF",
+    "year": 2018,
+    "length": "43 Min."
+  },
+  {
+    "title": "ZDF History – Napoleons verstoßene Liebe",
+    "production": "Doc.Station Medienproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "ZDF History – Mata Hari – Erotik und Erotik",
+    "production": "Doc.Station Medienproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "ZDF History – Nikita Chruschtschow – Der rote Zar",
+    "production": "Doc.Station Medienproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Mit erotischen Blick - Winckelmann verändert die Welt",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Verbotene Liebe in Indien",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Was ware wenn .... Der Islam erobert hätte",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "Phönix",
+    "year": 2017,
+    "length": "43 Min."
+  },
+  {
+    "title": "Paulus: Gefährliche Mission",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 Min."
+  },
+  {
+    "title": "Aufstand in der Wüste - die Herrschaft des Mahdi",
+    "production": "Taglicht Media GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Terra X – Superhelden",
+    "production": "NFP Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "episode": "Folge 1. Odysseus",
+    "episodeTwo": "Folge 2. Beowulf",
+    "episodeThree": "Folge 3. Parzival",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Terra X – Monster",
+    "production": "NFP Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2017,
+    "length": "43 / 52 Min."
+  },
+  {
+    "title": "Ach, Europa !",
+    "production": "Gruppe 5 Filmproduktion / Interscience Film GmbH",
+    "sender": "ZDF / Arte",
+    "episode": "Folge 1 Die Wiege Europas",
+    "episodeTwo": "Folge 2 Die Erben Roms",
+    "episodeThree": "Folge 3 Unter Kreuz und Halbmond",
+    "episodeFour": "Folge 4 Das Dunkle Mittelalter",
+    "episodeFive": "Folge 5 Auf zu neuen Ufern",
+    "year": 2016,
+    "length": "5 x 43 Min"
+  },
+  {
+  "title": "Das Imperium der weißen Mönche",
+  "production": "Gruppe 5 Filmproduktion GmbH",
+  "sender": "ZDF",
+  "year": 2016,
+  "length": "43 Min."
+  },
+  {
+    "title": "Terra X – Große Völker",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "episode": "Folge 1 Die Araber",
+    "episodeTwo": "Folge 2 Die Karthager",
+    "episodeThree": "Folge 3 Die Germanen",
+    "year": "-",
+    "length": "3 x 43 / 52 Min"
+  },
+  {
+    "title": "Wildes Sardinien",
+    "production": "Naturfilm von Sigurd Tesche",
+    "sender": "WDR",
+    "year": 2016,
+    "length": "45 Min"
+  },
+  {
+    "title": "Sternstunden der Evolution",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "episode": "Folge 1 Der Anfang von Allem",
+    "episodeTwo": "Folge 2 Untergang und Neubeginn",
+    "episodeThree": "Folge 3 Die großen Rätsel",
+    "year": 2016,
+    "length": "3 x 43 Min"
+  },
+  {
+    "title": "Frauen und Ozeane - Sandy Thomalla, der Unbekannte Süden",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "Arte",
+    "year": 2016,
+    "length": "52 Min"
+  },
+  {
+    "title": "Martin Luther-Petra Gerster auf den Spuren des Reformators",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2016,
+    "length": "43 Min"
+  },
+  {
+    "title": "Terra X – Bier, eine Weltgeschichte",
+    "production": "Talglicht Media GmbH",
+    "sender": "ZDF",
+    "year": 2016,
+    "length": "43 Min"
+  },
+  {
+    "title": "Manganknollen vom Meeresgrund - Goldrausch im Pazifik",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "Arte / ZDF",
+    "year": 2016,
+    "length": "52 / 43 Min"
+  },
+  {
+    "title": "Frauen und Ozeane - Verena Schöpf - Super Korallen",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "Arte",
+    "year": 2016,
+    "length": "43 Min"
+  },
+  {
+    "title": "Terra X – Rom am Rhine",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "-",
+    "year": 2016,
+    "episode": "Folge 1 Krieg und Frieden",
+    "episodeTwo": "Folge 2 Blüte und Bedrohung",
+    "episodeThree": "Folge 3 Zentrum des Imperiums"
+  },
+  {
+    "title": "Terra X – Freibeuter der Meere",
+    "production": "Taglicht Media GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2015,
+    "episode": "Die Korsaren",
+    "length": "45 / 52 Min"
+  },
+  {
+    "title": "Terra X – Deutschlands Städte",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2015,
+    "episode": "Folge 1 Macht und Reichtum",
+    "episodeTwo": "Folge 2 Glanz und Gloria",
+    "episodeThree": "Folge 3 Fortschritt und Eland",
+    "length": "3 x 43 Min"
+  },
+  {
+    "title": "Der Primus Franz Josef Strauss",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ARD",
+    "year": 2015,
+    "length": "70 min"
+  },
+  {
+    "title": "Terra X – Die Geschichte des Essens",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2015,
+    "length": "2 x 43 Min"
+  },
+  {
+    "title": "Das Jesusrätzel - Petra Gerster auf Spurensuche im Heiligen Land",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2015,
+    "length": "43 Min"
+  },
+  {
+    "title": "Terra X – Supertalent Mensch",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2014,
+    "length": "2 x 43 Min"
+  },
+  {
+    "title": "Terra X – Alexander der Große - bis ans Ende der Welt",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF / Arte",
+    "year": 2014,
+    "length": "90 Min"
+  },
+  {
+    "title": "Leschs Kosmos – Big Data- was uns die Vermessung der Welt verrät",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2014,
+    "length": "30 Min"
+  },
+  {
+    "title": "Terra X – Die Welt der Ritter",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2014,
+    "length": "3 x 45 Min"
+  },
+  {
+    "title": "Strafsache Jesus - der Faktencheck mit Petra Gerster",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2014,
+    "length": "45 Min"
+  },
+  {
+    "title": "Terra X – Wilder Planet - Katastrophen",
+    "production": "Regie: Stefan Schneider",
+    "sender": "ZDF",
+    "year": 2013,
+    "episode": "Teil 1. Vulkane",
+    "episodeTwo": "Teil 2. Erdbeben",
+    "episodeThree": "Teil 3. Stürme",
+    "length": "3 x 45 Min"
+  },
+  {
+    "title": "Frauen, die Geschichte Machen",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2013,
+    "episode": "Folge 1. Kleopatra",
+    "episodeTwo": "Folge 2. Jeanne d’Arc",
+    "episodeThree": "Folge 3. Queen Elizabeth 1.",
+    "episodeFour": "Folge 4. Katherine die Große",
+    "episodeFive": "Folge 5. Preußens Königen Luise",
+    "episodeSix": "Folge 6. Sophie Scholl",
+    "length": "6 x 45 Min"
+  },
+  {
+    "title": "Terra X – Große Völker",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2013,
+    "episode": "Teil 1. Die Griechen",
+    "episodeTwo": "Teil 2. Die Römer",
+    "episodeThree": "Teil 3. Die Wikinger",
+    "length": "3 x 45 Min"
+  },
+  {
+    "title": "Geliebter Feind- Die Geschichte der deutsch-französische Beziehungen",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2013,
+    "length": "10 x 45 Min"
+  },
+  {
+    "title": "Kluge Fische",
+    "production": "Sigurd Tesche",
+    "sender": "ARD",
+    "year": 2013,
+    "length": "45 Min"
+  },
+  {
+    "title": "Der Vermächtnis der ersten Christen",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2013,
+    "length": "45 Min"
+  },
+  {
+    "title": "Terra X – Weltwunder - Die schönsten Orte der Erde",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2013,
+    "length": "45 Min"
+  },
+  {
+    "title": "Geliebter Feind - 1000 Jahre Deutsche und Französen",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "ZDF",
+    "year": 2013,
+    "length": "90 Min"
+  },
+  {
+    "title": "Abenteuer Forschung – Zwischen Ekel und Genuss - das rätselhafte Reich der Sinne",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "Arte / ZDF.info",
+    "year": 2013,
+    "length": "10 x 52 Min"
+  },
+  {
+    "title": "Expeditionen II – Vietnam: Hilfe für die letzten ihrer Art - Die Languren",
+    "production": "Gruppe 5 Filmproduktion GmbH",
+    "sender": "Arte",
+    "year": 2013,
+    "length": "-"
+  },
+  {
+    "title": "Neues aus der Hai-Society",
+    "production": "Sigurd Tesche",
+    "sender": "ARD",
+    "year": 2012,
+    "length": "-"
+  },
+  {
+    "title": "Pfeilschwanzkrebse",
+    "production": "Sigurd Tesche",
+    "sender": "ARD",
+    "year": 2012,
+    "length": "-"
+  },
+  {
+    "title": "Wir Opelaner",
+    "production": "Ulrike Franke, Michael Loeken",
+    "sender": "WDR",
+    "year": 2012,
+    "length": "44 Min"
+  },
+  {
+    "title": "Geheimnisvolle Hochseeoasen",
+    "production": "Rolf J. Möltgen",
+    "sender": "ARD",
+    "year": 2012,
+    "length": "-"
+  },
+  {
+    "title": "Die Geburt Jesu - Faktencheck",
+    "production": "Daniel Stich",
+    "sender": "ZDF",
+    "year": 2012,
+    "length": "-"
+  },
+  {
+    "title": "Der große Deal",
+    "production": "Christel Fromm",
+    "sender": "ZDF",
+    "year": 2012,
+    "length": "45 Min"
+  },
+  {
+    "title": "Das Geheimnis der Päpstin",
+    "production": "Christel Fromm",
+    "sender": "ZDF",
+    "year": 2012,
+    "length": "45 Min"
+  },
+  {
+    "title": "Supermacht Preußen – Der alte Fritz und seine Erben",
+    "production": "Regie: Stefan Brauburger",
+    "sender": "ZDF",
+    "year": 2012,
+    "length": "45 Min"
+  },
+  {
+    "title": "Unbekanntes Paradies – Im Reich der Kaltwasserriffe",
+    "production": "Regie: Sigurd Tesche / Natalie Tesche",
+    "year": 2012,
+    "length": "45 Min"
+  },
+  {
+    "title": "Russland mein Schicksal",
+    "production": "-",
+    "episode": "Folge 1 - St. Petersburg",
+    "episodeTwo": "Folge 2 - Moskau",
+    "episodeThree": "Folge 3 - Wolgograd",
+    "sender": "WDR",
+    "year": 2011,
+    "length": "45 Min"
+  },
+  {
+    "title": "Terra X – Friedrich der Große",
+    "production": "-",
+    "sender": "ZDF",
+    "year": 2011,
+    "length": "45 Min"
+  },
+  {
+    "title": "Der heilige Krieg",
+    "production": "-",
+    "episode": "Folge 1 - Das Schwert des Propheten",
+    "episodeTwo": "Folge 3 - Die Türken vor Wien",
+    "episodeThree": "Folge 5 - Terror für den Glauben",
+    "sender": "ZDF",
+    "year": 2011,
+    "length": "45 Min"
+  },
+  {
+    "title": "Terra X – Ägypten",
+    "production": "-",
+    "episode": "Folge 1 - Geburt des Pharaonenreichs",
+    "episodeTwo": "Folge 2 - Großmacht am Nil",
+    "episodeThree": "Folge 3 - Im Zeichen des Sonnengottes",
+    "episodeFour": "Folge 4 - Das Geheimnis des ewigen Lebens",
+    "sender": "ZDF",
+    "year": 2011,
+    "length": "4 x 45 Min"
+  },
+  {
+    "title": "Rettung für Venedig - Kampf gegen den Untergang",
+    "production": "-",
+    "sender": "ZDF",
+    "year": 2011,
+    "length": "30 Min"
+  },
+  {
+    "title": "Abenteuer Wissen – Grünes Gold",
+    "production": "-",
+    "sender": "ZDF",
+    "year": 2011,
+    "length": "30 Min"
+  },
+  {
+    "title": "Walking The Wall",
+    "production": "Regie: Christian Twente",
+    "sender": "National Geographic Television USA",
+    "year": 2010,
+    "length": "50 Min"
+  }
+]
